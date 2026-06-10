@@ -6,7 +6,7 @@
 
 <br>
 
-## 👤 **Sobre mi y mis proyectos** 🚀
+## 👤 **Sobre mi y mis logros** 🚀
 
 - 📊 **Analista de Datos** con un trasfondo técnico e industrial enfocado en la optimización de procesos y mejora continua.
 - 🛠️Lideré iniciativas analíticas enfocadas en la optimización de procesos en planta, logrando una **reducción del 80% en waste financiero** en KPIs críticos de la organización..
