@@ -1,18 +1,17 @@
 <h1 align="center"><b>¡Hola! Soy Efraín Ferretiz </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwY2N6bXB0NXY1cmN6bms3bXNidm95b3Y4YW15bWZ3Y3F6bms3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=00F2FE&size=24&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+•+Business+intelligence;Apasionado+por+los+datos+y+la+optimización;Transformando+datos+en+decisiones;SQL+•+Python+•+Power+BI"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=00F2FE&size=24&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+•+Business+intelligence;Optimización+de+KPIs+Financieros;Transformando+datos+en+decisiones;SQL+•+Python+•+Power+BI"></a>
 </p>
 
 <br>
 
-## 👤 **Sobre mí** 🚀
+## 👤 **Sobre mi y mis proyectos** 🚀
 
 - 📊 **Analista de Datos** con un trasfondo técnico e industrial enfocado en la optimización de procesos y mejora continua.
-- 🎓 Graduado recientemente de un **Bootcamp Profesional de Análisis de Datos** y estudiante de **Informática Administrativa**.
-- 🛠️ Especializado en la creación de dashboards impactantes, extracción de métricas críticas y análisis de rentabilidad financiera (como mi proyecto de analítica Rappiplus).
-- 💡 Me apasiona la metodología Lean Six Sigma y aplicar el analisis en entornos operativos y de negocio.
-- 🎯 Mi meta para este año es seguir creciendo en el ecosistema de BI y consolidar mi dominio del inglés.
+- 🛠️Lideré iniciativas analíticas enfocadas en la optimización de procesos en planta, logrando una **reducción del 80% en waste financiero** en KPIs críticos de la organización..
+- 💡 Desarrollé análisis de correlación (Pearson, Spearman, Cramér's V) identificando un driver crítico del **97% de correlación entre frecuencia de compra e ingresos anuales**, reorientando la estrategia comercial de negocio.
+- 💡Analicé modelos comerciales masivos logrando validar una eficiencia operativa con un **Profit del 11.51% ($5.98M)** y traccionando ingresos superiores a los **$51.9M** con una inversión inteligente en marketing de $2.87M.
 
 <br>
 
