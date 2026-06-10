@@ -1,7 +1,7 @@
 <h1 align="center"><b>¡Hola! Soy Efraín Ferretiz </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwY2N6bXB0NXY1cmN6bms3bXNidm95b3Y4YW15bWZ3Y3F6bms3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=00F2FE&size=24&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+•+Business+intelligence;Optimización+de+KPIs+Financieros;Transformando+datos+en+decisiones;SQL+•+Python+•+Power+BI"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=00F2FE&size=24&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+•+Business+intelligence;Optimización+de+KPIs+Financieros;Mejora+Continua;SQL+•+Python+•+Power+BI"></a>
 </p>
 
 <br>
